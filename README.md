@@ -50,6 +50,11 @@ The program outputs:
 - Deflection values along the wing span
 - A graph visualizing the wing bending
 
+## Example Output
+![](https://github.com/kiwihawaii25-png/Project_1_team_4/blob/main/images_p1/Screenshot%202026-03-12%20143634.png)
+
+![](https://github.com/kiwihawaii25-png/Project_1_team_4/blob/main/images_p1/Screenshot%202026-03-12%20143722.png)
+
 ## Technologies Used
 - Python
 - Matplotlib
