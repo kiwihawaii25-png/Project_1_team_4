@@ -1,7 +1,7 @@
 # On a Wing and a Prayer
 
 ## Project Overview
-This project estimates the deflection of an aircraft wing during flight using simplified aerodynamic and structural equations. The program calculates aerodynamic lift based on flight conditions and models the wing as a cantilever beam to estimate structural deformation.
+This project is a Wing Deflection Calculator that estimates how much an aircraft wing bends during flight due to aerodynamic lift. The program allows the user to select from several different aircraft types and wing materials, and then input airspeed and altitude. Using basic aerodynamic equations and beam deflection theory, the program calculates the lift produced by the wing and models the wing as a cantilever beam fixed at the root. From this, it estimates the maximum wingtip deflection and calculates the bending along the span of the wing. The program also generates a visual plot showing how the wing deflects from the root to the tip. While the model is simplified, it demonstrates how aircraft geometry, flight conditions, and material properties influence structural deformation in aircraft wings.
 
 The goal of this project is to demonstrate how aerodynamic forces, flight conditions, and material properties affect wing bending.
 
