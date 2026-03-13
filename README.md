@@ -68,7 +68,3 @@ Jay Camp
 Jacob Henderson  
 Alessandra Ozuna  
 Aeryn Paet
-Lucas Palya
-
-## Presentation
-![](https://github.com/kiwihawaii25-png/Project_1_team_4/blob/main/EGR115%20Group%204%20presentation2.pdf)
